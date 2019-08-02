@@ -1130,9 +1130,9 @@
     "restore": {
       "projectUniqueName": "CalculateClientSecurityHash",
       "projectName": "CalculateClientSecurityHash",
-      "projectPath": "D:\\rpa\\uipath\\advanced\\CalculateClientSecurityHash\\.local",
+      "projectPath": "D:\\rpa\\uipath\\advanced\\rpa\\CalculateClientSecurityHash\\.local",
       "packagesPath": "C:\\Users\\huyendtt.ho\\.nuget\\packages\\",
-      "outputPath": "D:\\rpa\\uipath\\advanced\\CalculateClientSecurityHash\\.local"
+      "outputPath": "D:\\rpa\\uipath\\advanced\\rpa\\CalculateClientSecurityHash\\.local"
     },
     "frameworks": {
       "net461": {
